@@ -23,7 +23,7 @@ layout: default
 
 Welcome to the Florist's Information Site.
 
-The Florist is another specialist of the your Colony's production. The Florist will plant flowers and other plant items in their plots. The Florist will be plant , provided that the [Deliveryman](../workers/deliveryman) (or yourself) give it all the compost or bonemeal to do it.  
+The Florist is another specialist of the your Colony's production. The Florist will plant flowers and other plant items in their plots, provided that the [Deliveryman](../workers/deliveryman) (or yourself) give it all the compost or bone-meal to do it.  
 
 Click here for full information about the [Flowershop's hut](../buildings/flowershop) block and using your [Building Tool](../items/buildingtool). Once the hut is placed, the Florist will be automatically assigned (or you can manually assign one with the best [Traits](../systems/workerinfo) for a Florist if you changed this in the setting tab in the [Town Hall's GUI](../../source/buildings/townhall).
 
